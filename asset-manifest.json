@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/mydevfolio/static/css/main.958a9487.css",
+    "main.js": "/mydevfolio/static/js/main.9ea53e2c.js",
+    "static/js/787.bf8cdfee.chunk.js": "/mydevfolio/static/js/787.bf8cdfee.chunk.js",
+    "static/media/fa-solid-900.ttf": "/mydevfolio/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/work-5.jpg": "/mydevfolio/static/media/work-5.02a19b20735c76801246.jpg",
+    "static/media/fa-brands-400.ttf": "/mydevfolio/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
+    "static/media/post-1.jpg": "/mydevfolio/static/media/post-1.25913435c5fbc36e5aca.jpg",
+    "static/media/fa-solid-900.woff2": "/mydevfolio/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
+    "static/media/overlay-bg.jpg": "/mydevfolio/static/media/overlay-bg.6ca4a5c5d5345f4fc1f6.jpg",
+    "static/media/post-2.jpg": "/mydevfolio/static/media/post-2.a148d0988a3b605915c3.jpg",
+    "static/media/work-6.jpg": "/mydevfolio/static/media/work-6.94c5564ed1fa0ec18cae.jpg",
+    "static/media/post-3.jpg": "/mydevfolio/static/media/post-3.6a0c63d650d55aa77e19.jpg",
+    "static/media/work-3.jpg": "/mydevfolio/static/media/work-3.e0c25c9eaa0afe950232.jpg",
+    "static/media/fa-brands-400.woff2": "/mydevfolio/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
+    "static/media/work-4.jpg": "/mydevfolio/static/media/work-4.193607b0a57ebb67215d.jpg",
+    "static/media/hero-bg.jpg": "/mydevfolio/static/media/hero-bg.73c37175ba0b271d7678.jpg",
+    "static/media/fa-regular-400.ttf": "/mydevfolio/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
+    "static/media/work-2.jpg": "/mydevfolio/static/media/work-2.cd2e48792253bd65aaf4.jpg",
+    "static/media/work-1.jpg": "/mydevfolio/static/media/work-1.4630cb37f0a74c36500a.jpg",
+    "static/media/fa-regular-400.woff2": "/mydevfolio/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
+    "static/media/testimonial-4.jpg": "/mydevfolio/static/media/testimonial-4.69bbbc4bc2bfd104b4b8.jpg",
+    "static/media/testimonial-2.jpg": "/mydevfolio/static/media/testimonial-2.60e9d7dab4276c8d46aa.jpg",
+    "static/media/fa-v4compatibility.ttf": "/mydevfolio/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/mydevfolio/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
+    "index.html": "/mydevfolio/index.html",
+    "main.958a9487.css.map": "/mydevfolio/static/css/main.958a9487.css.map",
+    "main.9ea53e2c.js.map": "/mydevfolio/static/js/main.9ea53e2c.js.map",
+    "787.bf8cdfee.chunk.js.map": "/mydevfolio/static/js/787.bf8cdfee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.958a9487.css",
+    "static/js/main.9ea53e2c.js"
+  ]
+}
